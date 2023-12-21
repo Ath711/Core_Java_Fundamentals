@@ -1,0 +1,9 @@
+two role admin and user
+admin will create question
+user will play the game
+there will be 5 question
+
+before starting there is option admin and user
+
+question should be shown one by one
+user will select the answer
