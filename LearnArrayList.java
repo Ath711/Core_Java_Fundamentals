@@ -25,7 +25,7 @@ public class LearnArrayList {
     */
     
 
-    Collection<Integer> nums = new ArrayList<Integer>();
+    Collection<Integer> nums = new ArrayList<>();
     nums.add(1);
     nums.add(2);
     nums.add(3);

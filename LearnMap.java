@@ -5,7 +5,7 @@ import java.util.Map;
 public class LearnMap {
 
   public static void main(String args[]) {
-    Map<String, Integer> map = new HashMap<String, Integer>();
+    Map<String, Integer> map = new HashMap<>();
     map.put("ABC", 90);
     map.put("BCE", 98);
     map.put("ABC", 100); // this will overwrite previous A value
